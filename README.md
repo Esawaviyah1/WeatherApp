@@ -19,4 +19,4 @@ This Python script retrieves daily weather data (temperature and humidity) for D
 1. Get an API key from [Tomorrow.io](https://www.tomorrow.io/)
 2. Run the script:
 ```bash
-python weather_notify.py
+python weather.py
