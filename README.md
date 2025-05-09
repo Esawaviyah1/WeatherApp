@@ -12,8 +12,7 @@ This Python script retrieves daily weather data (temperature and humidity) for D
 
 - Python 3
 - macOS
-- `requests` library (`pip install requests`)
-
+- 
 ## Setup
 
 1. Get an API key from [Tomorrow.io](https://www.tomorrow.io/)
